@@ -1,15 +1,21 @@
 header{
-    background-image: linear-gradient( hsl(244, 70%, 55%), rgba(43, 0, 122, 0), hsl(244, 70%, 55%));
+    background-image: linear-gradient( rgba(33.3, 0, 0), rgba(50.2, 8.2, 8.2), rgba(33.3, 0, 0));
     height: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
 
 }
+header h1{
+   color: black;
+   font-size: 50px;
+}
+
 
 h2{
     text-align: center;
-
+    font-size: 50px;
+   color: rgba(100, 66.7, 66.7) ; 
 }
 
 .wiw a  {
@@ -58,10 +64,10 @@ margin: 00px 00px 00px 00px;
     
 }
 body{
-    background-color: rgb(0, 0, 116);
+    background-color: rgb(83.1, 41.6, 41.6);
 }
 footer{
-     background-image: linear-gradient( hsl(244, 70%, 55%), rgba(43, 0, 122, 0), hsl(244, 70%, 55%));
+     background-image: linear-gradient( rgba(33.3, 0, 0), rgba(50.2, 8.2, 8.2), rgba(33.3, 0, 0));
     height: 100px;
 
 
@@ -74,13 +80,8 @@ ul{
     color: yellow;
 }
 button{
-    background-color: yellow;
+    background-color: rgb(86, 34, 34);
     font-size: 25px  ;
-    margin-left: 600px ;
-    margin-top: -250px;
-}
-h4{
-    margin-top: 100px;
-    opacity: 0;
+   
 }
 
